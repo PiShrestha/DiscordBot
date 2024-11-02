@@ -1,0 +1,12 @@
+/Users/macuser/Documents/CS/Discord/src/main/java/First/Discord/Bot/Kylopoly.java
+/Users/macuser/Documents/CS/Discord/src/main/java/commands/Play.java
+/Users/macuser/Documents/CS/Discord/src/main/java/events/Greeting.java
+/Users/macuser/Documents/CS/Discord/src/main/java/events/MusicBot.java
+/Users/macuser/Documents/CS/Discord/src/main/java/events/Reaction.java
+/Users/macuser/Documents/CS/Discord/src/main/java/lavalplayer/AudioForwarder.java
+/Users/macuser/Documents/CS/Discord/src/main/java/lavalplayer/CommandManager.java
+/Users/macuser/Documents/CS/Discord/src/main/java/lavalplayer/GuildMusicManager.java
+/Users/macuser/Documents/CS/Discord/src/main/java/lavalplayer/ICommand.java
+/Users/macuser/Documents/CS/Discord/src/main/java/lavalplayer/Listeners.java
+/Users/macuser/Documents/CS/Discord/src/main/java/lavalplayer/PlayerManager.java
+/Users/macuser/Documents/CS/Discord/src/main/java/lavalplayer/TrackScheduler.java
